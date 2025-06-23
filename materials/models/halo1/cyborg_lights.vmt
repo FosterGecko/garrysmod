@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/halo1/cyborg1"
+	"$additive" 1
+	"$nodecal" "1"
+}
+

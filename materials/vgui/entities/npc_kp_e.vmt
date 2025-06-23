@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/NPC_kentpaul"
+	"$nolod" 1
+	"$vertexcolor" 1
+}

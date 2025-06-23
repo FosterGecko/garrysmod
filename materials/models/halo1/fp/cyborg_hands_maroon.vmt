@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/halo1/fp/cyborg_hands.vmt"
+	insert
+	{
+	   "$envmaptint"	"{234 192 194}"
+	   "$color2"	"{170 0 11}"
+	}
+}

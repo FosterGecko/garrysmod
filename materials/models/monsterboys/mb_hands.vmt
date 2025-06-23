@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+
+	{	
+		"$baseTexture" "models\monsterboys\mb_hands"
+		"$bumpmap" "models\monsterboys\mb_hands_normal"
+		"$phongexponenttexture" "models\monsterboys\mb_hands_exponent"
+		"$rimmask" "1"
+//		"$phongBoost" "135"
+	}	

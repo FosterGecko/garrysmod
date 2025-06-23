@@ -1,0 +1,25 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_weapons/pg_fishing_rod"
+	"$bumpmap" "models\PG_props\pg_weapons/pg_fishing_rod_bump"
+	//"$normalmapalphaenvmapmask" "1"
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	$rimlight               1
+	$rimlightexponent       6
+	$rimlightboost          1	
+
+	
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmaptint" "[ 1.0 1.0 1.0 ]"
+
+
+}

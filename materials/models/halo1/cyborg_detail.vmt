@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/halo1/cyborg_detail"
+	"$basetexturetransform" "center 0 0 scale 10 10 rotate 0 translate 0 0"
+	"$halflambert" "1"
+	"$translucent" "1"
+	"$nodecal" "1"
+
+	"$detail" "models/halo1/cyborg_detail_mask"
+	"$detailblendmode" 9
+	"$detailblendfactor" 1
+	"$detailscale" 1
+}

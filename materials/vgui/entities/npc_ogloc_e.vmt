@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/NPC_ogloc"
+	"$nolod" 1
+	"$vertexcolor" 1
+}

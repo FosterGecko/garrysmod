@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/ghostfade_ent"
+	"$translucent" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}

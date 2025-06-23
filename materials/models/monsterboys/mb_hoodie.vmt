@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/monsterboys/mb_hoodie"
+	"$bumpmap" "models/monsterboys/mb_hoodie_normal"
+	"$nocull" "1"
+}

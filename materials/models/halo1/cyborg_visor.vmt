@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/halo1/cyborg1"
+	"$halflambert"	"1"
+	"$envmap" "models/halo1/cubemap_mirror_surface"
+	"$envmapmask" "models/halo1/cyborg1_mask"
+	"$nodecal" "1"
+	"$blendtintbybasealpha" "1"
+	"$color2" "[0 0 0]"
+}

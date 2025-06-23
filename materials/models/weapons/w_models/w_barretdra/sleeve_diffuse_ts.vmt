@@ -1,0 +1,12 @@
+VertexLitGeneric
+{
+"$baseTexture" "models\weapons\v_models\barretdra/sleeve_diffuse_ts"
+"$bumpmap"     "models\weapons\v_models\barretdra/sleeve_diffuse_ts_n"
+"$phong" "1"
+"$phongexponent" "5"
+"$phongboost" "1"
+"$phongfresnelrages" "[2 0 0]"
+"$rimlight" "1"
+"$rimlightexponent" "20"	
+"$rimlightboost" "0.2"
+}

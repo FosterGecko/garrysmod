@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 					"models/bb_backdrop/T_ResurgentClass_StarDestroyer_PanelTile_Breakup_01_RGBA"
+	"$bumpmap" 						"models/bb_backdrop/normal"
+
+	"$halflambert" 					1
+	
+	"$phong"						1
+	"$phongexponent"				"25"
+	"$phongboost"					5
+	"$phongfresnelranges" 			"[.5 .5 5]"
+
+	$ambientocclusion 				1
+	$diffuseexp 					"1.5"
+
+}

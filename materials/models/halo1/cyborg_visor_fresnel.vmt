@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/halo1/cyborg"
+	"$bumpmap" "models/halo1/cyborg_specmask"
+	"$normalmapalphaenvmapmask" "1"
+	"$additive" "1"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+	"$envmapfresnel" "1"
+
+	"$phong" "1"
+	"$phongboost" "0"
+	"$phongexponent" "1"
+	"$phongfresnelranges" "[0 1 1]"
+
+	"$blendtintbybasealpha" "1"
+	"$color2" "[0 0 0]"
+
+	"Proxies"
+	{
+		"Env_Lightmap"
+		{
+		"min" "0"
+		"max" "1"
+		"envmap" "models/halo1/cubemap_mirror_surface"
+		"color" "[0.447059 0.439216 0.560784]"
+		}
+	}
+}

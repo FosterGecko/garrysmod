@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models/player/pa/citizen_sheet"
+	"$bumpmap"     "models/player/pa/citizen_sheet_normal"
+	"$halflambert" 1
+}

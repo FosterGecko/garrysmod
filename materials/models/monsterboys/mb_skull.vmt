@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/monsterboys/mb_skull"
+	"$bumpmap" "models/monsterboys/mb_skull_normal"
+}

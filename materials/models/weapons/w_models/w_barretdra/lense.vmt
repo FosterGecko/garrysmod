@@ -1,0 +1,9 @@
+VertexLitGeneric
+{
+	"$basetexture" "models\weapons\v_models\barretdra\lense"
+	"$envmapmask" "models\weapons\v_models\barretdra\lense_ref"
+	"$surfaceprop" "glass"
+	"$additive" "0"
+	"$envmaptint" "[5 5 5]"
+	"$envmap" "env_cubemap"
+}

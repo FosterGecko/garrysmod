@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/halo1/cyborg_b"
+	"$basealphaenvmapmask" "1"
+	"$additive" "1"
+	"$halflambert" "1"
+	"$nodecal" "1"
+
+	"$color2"	"[0 0 0]"
+
+	"Proxies"
+	{
+		"Env_Lightmap"
+		{
+		"min" "0"
+		"max" "1"
+		"envmap" "models/halo1/cyborg_reflection_armor"
+		"color" "[0 0 1]"
+		}
+	}
+}

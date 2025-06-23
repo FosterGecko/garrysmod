@@ -1,0 +1,11 @@
+"vertexlitgeneric"
+{
+"$no_draw" "1"
+	"$baseTexture" "models\weapons\v_models\barretdra\Belt_diffuse"
+	"$bumpmap" "models\weapons\v_models\barretdra\Belt_diffuse_normal"
+	"$phong" "1"
+	"$phongexponent" "250"
+	"$phongboost" "5"	
+	"$phongfresnelranges"	"[1 1 1]"
+	"$halflambert" "1"
+}

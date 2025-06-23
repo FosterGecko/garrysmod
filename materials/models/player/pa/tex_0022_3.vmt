@@ -1,0 +1,26 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/player/pa/Tex_0022_3"
+	"$bumpmap" "models/player/pa/Tex_0021_0"
+
+
+	"$phong"  					"1"
+	"$phongFresnelRanges" 		"[.3 .3 1]"
+	"$phongboost"				".2"
+	
+	"$detail"					"vgui/white"
+	"$detailblendfactor"		"0"
+	"$detailscale"				"2"
+	
+	"$rimlight"					"1"
+	"$rimlightexponent"			"35"
+	"$rimlightboost"			".1"
+	
+	"Proxies"
+	{
+		"CauseOfDeath"
+		{
+			"resultVar"		"$detail"
+		}
+	}
+}

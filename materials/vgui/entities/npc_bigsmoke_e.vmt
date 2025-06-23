@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/NPC_bigsmoke"
+	"$nolod" 1
+	"$vertexcolor" 1
+}

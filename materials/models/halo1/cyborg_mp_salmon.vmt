@@ -1,0 +1,9 @@
+"Patch"
+{
+	include "materials/models/halo1/cyborg.vmt"
+	insert
+	{
+	   "$envmaptint"	"{255 234 238}"
+	   "$color2"	"{255 168 188}"
+	}
+}

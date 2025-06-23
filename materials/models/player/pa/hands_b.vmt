@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\player\pa\hands_b"
+	"$halflambert" 1
+	"$nocull" 1
+
+                "$bumpmap" "models\player\pa\hands_nb"
+
+
+                "$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" "2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+}

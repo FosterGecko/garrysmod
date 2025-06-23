@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\reverse/2024flash/Flash_WBTV_D"
+                "$bumpmap"    "models\reverse/2024flash/Flash_WBTV_N"
+	"$phong" "1"
+	"$phongboost"	"3"
+	"$phongfresnelranges"	"[.8 1 1]"
+	"$phongexponent" "2"
+	"$phongtint" "[.25 .20 .10]"
+	"$nocull" "1"
+}
+
+
+
+
+
+

@@ -1,0 +1,16 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" 	"\models\sligwolf\robotgen2\tex"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models\sligwolf\robotgen2\tex_mask"
+	"$envmapcontrast" 1
+	"$halflambert" 1
+	"$nodecal" "1"
+	"$model" "1"
+	
+	"$phongboost"	"0"
+	"$phongfresnelranges"	"[0.05 0.5 1]"
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+}

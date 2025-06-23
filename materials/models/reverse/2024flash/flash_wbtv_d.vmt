@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\reverse/2024flash/Flash_WBTV_D"
+                "$bumpmap"    "models\reverse/2024flash/Flash_WBTV_N"
+	"$phong" "1"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[.8 1 1]"
+	"$phongexponent" "5"
+	"$phongexponenttexture" "models\reverse/2024flash/Flash_WBTV_S"
+	"$phongalbedotint" "5"
+	"$nocull" "1"
+	"$lightwarptexture" 	"models\Dusty/Shared/Detail/lightwarp_leather"
+	"$detail" "models/Dusty/Shared/Detail/detail_leather"
+	"$detailscale" "5"
+	"$detailblendfactor" "0.1"
+	"$detailblendmode" "0"
+}
+
+
+
+

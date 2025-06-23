@@ -1,0 +1,5 @@
+unlitgeneric
+{
+	$translucent 1
+	$basetexture models\garnet_csgo\shared\scope_lens_dirt
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\player\superheroes\slow_batman"
+
+
+	"$envmap" "env_cubemap"
+//	"$envmapmask" "models\player\superheroes\slow_batman"
+	"$envmaptint" "[.5 .55 .65]"
+	"$envmapcontrast" 1
+	"$envmapsaturation" .85
+}

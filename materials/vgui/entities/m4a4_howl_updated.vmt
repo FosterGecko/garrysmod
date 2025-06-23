@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/atlas_m4a4_howl"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1 
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"\models\sligwolf\robot\tex"
+	"$envmap" "env_cubemap"	
+	"$envmapmask" "models\sligwolf\robot\tex_mask"
+	"$envmapcontrast" 1
+
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.1"
+	
+	"$detail" "models\sligwolf\robot\tex"
+   	"$detailscale" "1.0"
+   	"$detailblendfactor" "1.0"
+   	"$detailblendmode" "5"
+}

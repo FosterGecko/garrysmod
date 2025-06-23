@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "roleplay/popcorncart"
+	"$nodecal" "1"
+	"$phong" "1"
+	"$phongexponent" "230"
+	"$phongboost" "0.5"	
+	"$phongfresnelranges"	"[.7 15 20]"
+	"$basemapalphaphongmask" "1"
+
+}

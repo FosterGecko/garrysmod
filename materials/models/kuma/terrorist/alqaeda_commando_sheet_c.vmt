@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/kuma/terrorist/alqaeda_commando_sheet_c"
+
+	"$model" 	1
+
+//DX9:
+	"VertexLitGeneric_DX9"
+	{
+
+
+	"$bumpmap" "models/kuma/terrorist/alqaeda_commando_sheet_normal"	
+
+
+	}
+}

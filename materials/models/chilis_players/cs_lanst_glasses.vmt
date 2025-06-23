@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/CHILIs_players/cs_lanst_glasses"
+	"$translucent" 1
+}

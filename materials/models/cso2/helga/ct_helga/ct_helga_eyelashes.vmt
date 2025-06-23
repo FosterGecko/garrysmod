@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+
+	"$baseTexture" "models\CSO2\Helga\ct_helga\ct_helga_eyelashes"
+        $translucent  1
+	$alphatest 0
+		"$AllowAlphaToCoverage"    	 "0"
+	$nocull 1
+}

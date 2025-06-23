@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+$basetexture "models/monsterboys/mb_head"
+$phongboost 1
+}

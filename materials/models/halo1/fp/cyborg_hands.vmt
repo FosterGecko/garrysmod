@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/halo1/fp/cyborg_hands"
+	"$halflambert"	"1"
+	"$detail" "models/halo1/fp/cyborg_hands_detail"
+	"$detailscale" "1"
+	"$envmap" "models/halo1/cyborg_reflection_armor"
+	"$envmapmask" "models/halo1/fp/cyborg_hands_mask"
+	"$envmaptint"	"{240 255 215}"
+	"$blendtintbybasealpha"	"1"
+	"$color2" "{75 90 50}"
+}
